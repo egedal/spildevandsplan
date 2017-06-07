@@ -25,6 +25,7 @@ A Material Design theme for [MkDocs](http://www.mkdocs.org).
 
 Forudsætninger for installation:
 * Python
+  
 Installer med `pip`:
 
 ``` sh
