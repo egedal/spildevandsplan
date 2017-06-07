@@ -21,21 +21,23 @@ A Material Design theme for [MkDocs](http://www.mkdocs.org).
 
 [![Material for MkDocs](docs/images/material.png)](http://squidfunk.github.io/mkdocs-material/)
 
-## Quick start
+## Hurtig start
 
-Install with `pip`:
+Forudsætninger for installation:
+* Python
+Installer med `pip`:
 
 ``` sh
 pip install mkdocs-material
 ```
 
-Append the following line to your existing `mkdocs.yml`:
+Tilføj et ønsket tema til `mkdocs.yml`, eksempelvis:
 
 ``` yaml
 theme: 'material'
 ```
 
-For detailed installation instructions and a demo, visit
+For en mere dybdegående dokumentation og demo, besøg
 http://squidfunk.github.io/mkdocs-material/
 
 ## License
