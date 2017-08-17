@@ -25,6 +25,8 @@ Add the following line to your `mkdocs.yml`:
 theme: 'material'
 ```
 
+<div id="map" style="width:100%; height:500px;"></div>
+<script> var map = L.map('map',{center: [55.774047, 12.182736], zoom: 12}); L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);</script>
 For detailed instructions see the [getting started guide][3].
 
   [3]: getting-started.md
