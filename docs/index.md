@@ -1,32 +1,7 @@
-# Material <small>for MkDocs</small>
+##Velkommen til Egedal Kommunes Spildevandsplan
 
-## Beautiful project documentation
+I vores bestræbelser på at gøre det endnu lettere for dig, er vi gået et skridt længere med den digitale spildevandsplan. Denne digitale platform gør det endnu lettere, at søge de spørgsmål du ønsker svar på. Nu er det slut med downloads af PDF'er og andre filformater. Vores spildevandsplan er bygget på begrebet "mobile first", hvilket betyder at du kan læse spildevandsplanen på alle digitale enheder, da den automatisk tilpasser læsevinduet. Den integrerede søgefunktion gør det nemmere at finde præcis det du søger.  
 
-Material is a theme for [MkDocs][1], an excellent static site generator geared
-towards project documentation. It is built using Google's [Material Design][2]
-guidelines.
+Hvis du ønsker specifikke oplysninger om din ejendom, kan du besøge [mitspildevand.dk][1].
+  [1]: https://www.mitspildevand.dk
 
-[![Material for MkDocs](images/material.png)](images/material.png)
-
-  [1]: http://www.mkdocs.org
-  [2]: https://www.google.com/design/spec/material-design
-
-## Quick start
-
-Install the latest version of Material with `pip`:
-
-``` sh
-pip install mkdocs-material
-```
-
-Add the following line to your `mkdocs.yml`:
-
-``` yaml
-theme: 'material'
-```
-
-<div id="map" style="width:100%; height:500px;"></div>
-<script> var map = L.map('map',{center: [55.774047, 12.182736], zoom: 12}); L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);</script>
-For detailed instructions see the [getting started guide][3].
-
-  [3]: getting-started.md

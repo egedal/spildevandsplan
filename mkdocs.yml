@@ -19,17 +19,10 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
-site_url: http://squidfunk.github.io/mkdocs-material/
-
-# Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
-
-# Copyright
-copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
+site_name: Egedal Kommunes Spildevandsplan
+site_description: Spildevandsplan for Egedal Kommune
+site_author: Center for Teknik og Miljø
+site_url: http://spildevandsplan.egelab.dk
 
 # Theme directory
 theme_dir: material
@@ -39,17 +32,11 @@ extra:
   feature:
     tabs: false
   palette:
-    primary: indigo
+    primary: cyan
     accent: indigo
   social:
-    - type: globe
-      link: http://struct.cc
     - type: github-alt
-      link: https://github.com/squidfunk
-    - type: twitter
-      link: https://twitter.com/squidfunk
-    - type: linkedin
-      link: https://de.linkedin.com/in/martin-donath-20a95039
+      link: https://github.com/egedal/mkdocs-material
 
 # Extensions
 markdown_extensions:
@@ -75,8 +62,8 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - Material: index.md
-  - Getting started: getting-started.md
+  - Indledning: index.md
+  - Om spildevandsplaner: om_spildevandsplaner.md
   - Extensions:
     - Admonition: extensions/admonition.md
     - CodeHilite: extensions/codehilite.md
