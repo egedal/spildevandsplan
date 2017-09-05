@@ -64,6 +64,12 @@ markdown_extensions:
 pages:
   - Indledning: index.md
   - Om spildevandsplaner: om_spildevandsplaner.md
+  - Regnvand: serviceniveau.md
+  - Eksisterende områder: eksisterende.md
+  - Plan og perspektivperioder: plan_perspektiv.md
+  - Nedlæggelse af Stenløse Renseanlæg: ned_sten_rens.md
+  - Fællesregulativ for Værebro Å-systemet: vaerebro_samarbejde.md
+  - Lov og planlægningsgrundlag: lov_plangrundlag.md
   - Extensions:
     - Admonition: extensions/admonition.md
     - CodeHilite: extensions/codehilite.md
