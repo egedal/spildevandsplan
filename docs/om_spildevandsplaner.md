@@ -4,6 +4,7 @@ En vedtaget spildevandsplan fastlægger rammerne for håndteringen af spildevand
 
 Spildevandsplanen er juridisk grundlag for:
 
+* At meddele tilslutningstilladelse for spildevand og tag- og overfladevand med eventuelle begrænsninger.
 * At indhente tilladelse til udledning af renset spildevand, overløbsvand og separat regnvand til vandløb, søer og kystvande.
 * At udbygge og vedligeholde spildevandsanlæg i henhold til lovkrav, kommuneplan, vandplaner og andre planer.
 * At sikre borgernes afledningssikkerhed.

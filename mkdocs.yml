@@ -68,8 +68,8 @@ pages:
   - Eksisterende områder: eksisterende.md
   - Plan og perspektivperioder: plan_perspektiv.md
   - Nedlæggelse af Stenløse Renseanlæg: ned_sten_rens.md
-  - Fællesregulativ for Værebro Å-systemet: vaerebro_samarbejde.md
-  - Lov og planlægningsgrundlag: lov_plangrundlag.md
+  - Fællesregulativ for Værebro Å-systemet: vaerebro_samarbejd.md
+  - Lov og planlægningsgrundlag: lov_plan.md
   - Extensions:
     - Admonition: extensions/admonition.md
     - CodeHilite: extensions/codehilite.md

@@ -9,4 +9,4 @@ Formålet med fællesregulativet er:
 
 Dele af de nuværende regulativer, der fastlægger vandløbenes dimensioner og antal grødeskæringer, vil fortsat være gældende og planlægges revideret senere.
 I forbindelse med udarbejdelsen af fællesregulativet er der blevet nedsat en følgegruppe bestående af interesseorganisationer og forsyninger, som har haft mulighed for at komme med forbedringsforslag.  
-Du kan se et oversigtskort over Værebro Å systemet [her] (https://drive.google.com/open?id=1BRKso27GI5Fnka7EbLNDOXqF7vA&usp=sharing).
+Du kan se et oversigtskort over Værebro Å systemet [her](https://drive.google.com/open?id=1BRKso27GI5Fnka7EbLNDOXqF7vA&usp=sharing).
