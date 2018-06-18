@@ -3,16 +3,16 @@
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//getting-started/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/om_spildevandsplaner/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,38 +20,20 @@
     
         
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/admonition/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/hvad_er_spildevand/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/codehilite/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/kloakeringstyper/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/footnotes/</loc>
-     <lastmod>2017-06-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/metadata/</loc>
-     <lastmod>2017-06-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/permalinks/</loc>
-     <lastmod>2017-06-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//extensions/pymdown/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/serviceniveau/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -59,42 +41,136 @@
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//specimen/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/eksisterende/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//customization/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/plan_perspektiv/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/byudvikling/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/egedal_by/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/dyvelaasen/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/ned_sten_rens/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/omlaeg_sten_aa/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/vandmiljo/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/vaerebro_samarbejd/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/klimatilpasning/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//release-notes/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/lov_plan/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//contributing/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/kort/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>http://squidfunk.github.io/mkdocs-material//license/</loc>
-     <lastmod>2017-06-01</lastmod>
+     <loc>http://spildevandsplan.egelab.dk/regler_retningslinjer/</loc>
+     <lastmod>2018-06-18</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/hoeringer/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/vedtaegter/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/indkomne_2018/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://spildevandsplan.egelab.dk/2017/</loc>
+     <lastmod>2018-06-18</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
