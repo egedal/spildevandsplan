@@ -1,3 +1,4 @@
+<script src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js" charset="iso-8859-1"></script> <script>window.addEventListener("load", function () {MiniMap.createMiniMap({mapDiv: "planlagt", minimapId:'d76d91c4-8a80-4df4-93c4-8f5f28a556cd'});});</script>
 ##Nedlæggelse af Stenløse Renseanlæg og udbygning af Ølstykke Renseanlæg  
 Stenløse Renseanlæg ligger i den sydlige udkant af Stenløse. Renseanlægget modtager spildevand fra bl.a. Stenløse, Søsum, Ganløse og Veksø. Det rensede rensede spildevand udledes til Stenløse Å, og videre til Værebro Å.  
   
@@ -14,3 +15,4 @@ Da Ølstykke Renseanlæg i starten af 90'erne blev bygget, fremtidssikrede man a
 Nedlæggelsen af Stenløse Renseanlæg og byudviklingen i oplandet til Ølstykke Renseanlæg resulterer i, at anlæggets procestanke skal udbygges. Det udbyggede anlæg forventes at kunne håndtere en belastning på ca. 36.000 PE.  
   
 Der dannes på begge renseanlæg slam, som et retprodukt. Slammet indeholder lave koncentrationer af tungmetaller og miljøfremmede stoffer. Slammet udbringes derfor på landbrugsjord som biogødning. I forbindelse med nedlæggelsen af Stenløse Renseanlæg, skal slambehandlingen på Ølstykke Renseanlæg udvides med yderligere miniraliseringsanlæg og/eller mekanisk afvanding af biogødningen.
+<div id="planlagt" style="width:auto; height:500px;"></div>

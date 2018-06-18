@@ -27,6 +27,9 @@ site_url: http://spildevandsplan.egelab.dk
 # Theme directory
 theme_dir: material
 
+# Favicon
+site_favicon: 'img/favicon.ico'
+
 # Options
 extra:
   feature:
@@ -60,30 +63,39 @@ markdown_extensions:
   - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.tilde
 
+
 # Page tree
 pages:
   - Indledning: index.md
   - Om spildevandsplaner: om_spildevandsplaner.md
-  - Regnvand: serviceniveau.md
+  - Regnvand:
+    - Spildevandstyper: hvad_er_spildevand.md
+    - Kloakeringstyper: kloakeringstyper.md
+    - Regnvand: serviceniveau.md
   - Eksisterende områder: eksisterende.md
   - Plan og perspektivperioder: plan_perspektiv.md
-  - Nedlæggelse af Stenløse Renseanlæg: ned_sten_rens.md
-  - Fællesregulativ for Værebro Å-systemet: vaerebro_samarbejd.md
+  - Planperiode:
+    - Byudviklingsområder: byudvikling.md
+    - Egedal By: egedal_by.md
+    - Dyvelåsens forlængelse: dyvelaasen.md
+    - Nedlæggelse af Stenløse Renseanlæg: ned_sten_rens.md
+  - Perspektivperiode:
+    - Omlægning af Stenløse Å: omlaeg_sten_aa.md
+  - Vandmiljø:
+    - Påvirkninger: vandmiljo.md
+    - Fællesregulativ for Værebro Å-systemet: vaerebro_samarbejd.md
+  - Klimatilpasning: klimatilpasning.md
   - Lov og planlægningsgrundlag: lov_plan.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
-  - Specimen: specimen.md
-  - Customization: customization.md
-  - Release notes: release-notes.md
-  - Contributing: contributing.md
-  - License: license.md
+  - Kortbilag: kort.md
+  - Regler og retningslinjer: regler_retningslinjer.md
+  - Høringer:
+    - Spildevandsplan 2018: hoeringer.md
+    - Vedtægter: vedtaegter.md
+    - Høringssvar: indkomne_2018.md
+  - Revisioner af spildevandsplanen:
+    - 2017: 2017.md
 
 # Google Analytics
 google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - UA-98798504-1
   - auto

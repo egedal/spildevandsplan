@@ -12,4 +12,4 @@ Spildevandsplanen er juridisk grundlag for:
 * At meddele påbud om forbedret spildevandsrensning på ukloakerede ejendomme i det åbne land.
 * At Egedal Kommunes Byråd kan ekspropriere sig ret til arealerhvervelse, rådighedsindskrænkninger, servitutpålæggelser m.v. i forbindelse med etablering af nye spildevandsanlæg.
 
-Spildevandsplanen er udarbejdet af Egedal Kommune i samarbejde med Furesø Egedal Forsyning A/S.
+

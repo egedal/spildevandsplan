@@ -23,3 +23,11 @@ Spildevand ledes hovedsageligt ud i naturen via renseanlæg, overløb fra fælle
 Kommunen er godkendelsesmyndighed på de fleste udledningstilladelser, dvs. det er kommunen, der skal ansøges om tilladelse. Undtagelsen er listevirksomheder, hvor det er Miljøstyrelsen, der er godkendelses- og tilsynsmyndighed.
 Selvom det er kommunen, der træffer afgørelse om udledningstilladelserne, er det Miljøstyrelsen, der efterfølgende fører tilsyn med en del af udledningerne. Det drejer sig om udledningerne fra spildevandsselskabernes spildevandsanlæg (renseanlæg, regnbetingede udledninger og nødoverløb fra pumpestationer). For resten af udledningerne, dvs. for eksempel enkeltejendomme, andre virksomheder og fælles private renseanlæg er det kommunen, der fører tilsynet.  
 Du kan finde yderligere informationer om vandmiljøet på [Danmarks Miljøportal](http://arealinformation.miljoeportal.dk/distribution/). Vi skal gøre opmærksom på, at servicen kun kan åbnes i Internet Explorer, Mozilla Firefox eller Safari browsere.
+
+## Oversigt over udledninger/bygværker
+
+se her:
+<script src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js" charset="iso-8859-1"></script> <script>window.addEventListener("load", MiniMap.createMiniMap({mapDiv: "bygvaerker", minimapId:'c1c0deef-2397-405b-9135-f2986a4b1aaf'}));</script>
+
+<div id="bygvaerker" style="width:auto; height:500px;"></div>  
+

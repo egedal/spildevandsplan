@@ -19,10 +19,10 @@
 # IN THE SOFTWARE.
 
 FROM jfloff/alpine-python:2.7-slim
-MAINTAINER Martin Donath <martin.donath@squidfunk.com>
+MAINTAINER CTM - Egedal Kommune
 
 # Set build directory
-WORKDIR /tmp
+WORKDIR /.
 
 # Copy files necessary for build
 COPY material material
@@ -37,11 +37,11 @@ RUN \
   rm -rf /tmp/*
 
 # Set working directory
-WORKDIR /docs
+# WORKDIR /docs
 
 # Expose MkDocs development server port
-EXPOSE 8000
+EXPOSE 8080
 
 # Start development server by default
 ENTRYPOINT ["mkdocs"]
-CMD ["serve", "--dev-addr=0.0.0.0:8000"]
+CMD ["serve", "--dev-addr=0.0.0.0:8080"]

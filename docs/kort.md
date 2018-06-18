@@ -1,13 +1,7 @@
+<script src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js" charset="iso-8859-1"></script> <script>window.addEventListener("load", function () {MiniMap.createMiniMap({mapDiv: "samlet", minimapId:'48b0efc8-5c00-4b33-a73b-9fc33d9de8cc'});});</script>
 Her er en oversigt over kortbilagene til spildevandsplanen:
 
-* Eksisterende områder kan ses [her](https://drive.google.com/open?id=13L2WIQiyNlugKPeshgLRlX3mZFU)
-> Her kan du finde oplysninger om kloakerede områder, samt kloakledninger.  
-
-* Planlagte områder kan ses [her](https://drive.google.com/open?id=11dNRW1Y_yaLCy2w0Z44hUFffawc&usp=sharing)
-> Her kan du se de planlagte byudviklingsområder.  
-
-* Punktudledninger kan ses [her](https://drive.google.com/open?id=1YxWM6iVb3z5702Xig6sgltE_uTA)
-> Her kan du finde oplysninger om udledninger fra regnbetingede udløb (RBU), og udledninger fra renseanlæg.  
+<div id="samlet" style="auto; height:500px;"></div>
 
 * Vandløbstilstand kan ses [her](https://drive.google.com/open?id=10QynNrExYVAbQ_c2pYzX3SLy6a4)
 > Her kan du se, hvordan kommunens vandløb er vurderet ud fra [Århus indexet](http://www.dmu.dk/Pub/FR590.pdf).  
