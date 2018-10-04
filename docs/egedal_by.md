@@ -8,6 +8,12 @@ Byggefelter, der etableres med adgang ud til den grønne fletning gives derfor m
 Vejvand fra Dam Holme håndteres i en grøn midterrabat, hvor det forsinkes inden tilslutning til vejvandsledningen i den eksisterende del af Dam Holme. Der etableres overløbs mulighed fra midterrabatten til den grønne fletning via v-profiler i bygader/kvartersgader/sivegader, i lukkede render eller ledningsført.  
   
 Der anvendes skrift 27 og 30 for dimensionering af de enkelte anlæg på offentligt areal T=5, med klimafaktor 1,12 og sikkerhedsfaktor 1,23 for separat regnvandsafledning og 50 års levetid på anlæggene.  
+
+For stationsområdet dimensioneres regnvandssystemet til at kunne håndtere et afløbstal på 175 l/s/ha.
+Dette afløbstal sætter et loft for, hvor meget regnvand de enkelte matrikler kan aflede til regnvandssystemet.
+Har du for eksempel en matrikel på 2300 m<sup>2</sup>, får du et maksimalt afløbstal på (175 x 0,23) 40,25 l/s.
+
+Du kan læse mere om Egedal By i lokalplanen [her](http://soap.plansystem.dk/pdfarchive/20_1468898_APPROVED_1331629427247.pdf), samt i Byrumskataloget [her](http://www.egedalkommune.dk/media/1479581/14_endelig_web.pdf).
   
 Afvandingen fra området ledes via forsinkelsesbassiner til Stenløse Å.  
   
