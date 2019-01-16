@@ -1,5 +1,6 @@
 Du kan se de eksisterende kloakerede områder på kortet  
 Vær opmærksom på at kortet er vejledende.
 
-<script src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js" charset="iso-8859-1"></script>  <script>window.addEventListener("load", MiniMap.createMiniMap({mapDiv: "eksisterende", minimapId:'05c4ff6d-8e9f-4dad-8eb4-e8bce0ff3256'}));</script>
-<div id="eksisterende" style="width:auto; height:500px;"></div>
+<script src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js"></script>  <script>window.addEventListener('load', function(){ MiniMap.createMiniMap({mapDiv: 'minimapbody', minimapId: '48b0efc8-5c00-4b33-a73b-9fc33d9de8cc'}) });</script>
+
+<iframe style="overflow: hidden;" src="http://infokort.egedalkommune.dk/spatialmap?page=minimap2.showmap&id=48b0efc8-5c00-4b33-a73b-9fc33d9de8cc&version=2.7" height="500px" width="100%" allowfullscreen></iframe>
